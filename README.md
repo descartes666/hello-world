@@ -1,4 +1,4 @@
 # hello-world
 first attempt
 
-Hello World!
+print("Hello World!")
